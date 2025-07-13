@@ -520,3 +520,12 @@ footer{
 
 
 }
+
+@media (max-width:360px){
+    .col-box{
+        font-size: 0.8em;
+    }
+    footer .social-icons p{
+        margin-top:5px;
+    }
+}
